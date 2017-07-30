@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\inviCursor\inviCursor\obj\x86\Debug\inviCursor.Form1.resources
+C:\Users\Daniel\Desktop\inviCursor\inviCursor\obj\x86\Debug\inviCursor.Properties.Resources.resources
+C:\Users\Daniel\Desktop\inviCursor\inviCursor\obj\x86\Debug\inviCursor.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\inviCursor\inviCursor\bin\Debug\inviCursor.exe
+C:\Users\Daniel\Desktop\inviCursor\inviCursor\bin\Debug\inviCursor.pdb
+C:\Users\Daniel\Desktop\inviCursor\inviCursor\obj\x86\Debug\inviCursor.exe
+C:\Users\Daniel\Desktop\inviCursor\inviCursor\obj\x86\Debug\inviCursor.pdb
+C:\Users\Daniel\Desktop\inviCursor\inviCursor\obj\x86\Debug\inviCursor.Form2.resources
+C:\Users\Daniel\Desktop\inviCursor\inviCursor\obj\x86\Debug\inviCursor.Form3.resources
+C:\Users\Daniel\Desktop\inviCursor\inviCursor\obj\x86\Debug\inviCursor.Form4.resources

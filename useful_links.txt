@@ -1,0 +1,13 @@
+http://www.youtube.com/watch?v=aFjxZ7D97lA
+
+http://bytecrunchers.wordpress.com/2012/07/24/bouncing-ball-in-c/
+
+http://stackoverflow.com/questions/10048840/bouncing-a-ball-off-a-wall-with-arbitrary-angle
+
+http://www.ehow.com/how_12030598_make-object-bounce-c.html
+
+http://stackoverflow.com/questions/14307734/implement-bouncing-balls-collision-detection
+
+http://stackoverflow.com/questions/345838/ball-to-ball-collision-detection-and-handling
+
+http://www.codeproject.com/Articles/22438/Gravity-and-Collision-Simulation-in-C
